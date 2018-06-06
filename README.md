@@ -1,0 +1,1 @@
+# inventory_mgmt_app
